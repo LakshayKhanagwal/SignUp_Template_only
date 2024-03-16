@@ -40,7 +40,9 @@ This project provides a basic SignUp page template with a clean and modern desig
 ## Output
 
 Output should be look like this
-![Output](https://github.com/LakshayKhanagwal/LoginPage_Template/blob/eca38f5a144a3f0976d091f70c2178ca72ff25f6/images/output.jpg)
+![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/63021e541feb7304ac75026690000af4b80159b4/images/output.jpg)
+![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/63021e541feb7304ac75026690000af4b80159b4/images/output.jpg)
+![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/63021e541feb7304ac75026690000af4b80159b4/images/output.jpg)
 
 ## Features
 
