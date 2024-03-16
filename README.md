@@ -41,8 +41,8 @@ This project provides a basic SignUp page template with a clean and modern desig
 
 Output should be look like this
 ![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/63021e541feb7304ac75026690000af4b80159b4/images/output.jpg)
-![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/63021e541feb7304ac75026690000af4b80159b4/images/output.jpg)
-![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/63021e541feb7304ac75026690000af4b80159b4/images/output.jpg)
+![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/0cc3b2cf25f2ea22f3057905a38868aadd22f0c1/images/output_1.jpg)
+![Output](https://github.com/LakshayKhanagwal/SignUp_Template_only/blob/0cc3b2cf25f2ea22f3057905a38868aadd22f0c1/images/output_2.jpg)
 
 ## Features
 
