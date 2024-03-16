@@ -64,8 +64,8 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/LakshayKhanagwal/SignUp_Template_only.git
+   cd SignUp_Template_only
    
 ## Usage
 
